@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Testing Login requirement feature" skipped="0" tests="1" time="0.78" timestamp="2019-09-30 05:05:13"><testcase name="Login test of Business Console application"><error type="java.lang.ExceptionInInitializerError"/><system-err>null
+com.optal.pages.BasePage.loginWith(BasePage.java:35)
+com.optal.steps.LoginSteps.iLoginWith(LoginSteps.java:47)
+✽.I login with client username &amp; "client password"(src/test/resources/Features/UC001Login.feature:10)
+</system-err></testcase></testsuite>

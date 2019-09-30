@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.optal.RunnerCukesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.743 sec <<< FAILURE! - in com.optal.RunnerCukesTest
+Login test of Business Console application(Testing Login requirement feature)  Time elapsed: 0.802 sec  <<< ERROR!
+java.lang.ExceptionInInitializerError
+Caused by: java.lang.NullPointerException
+
